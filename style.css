@@ -1,0 +1,9 @@
+.header{
+    font-size: 40px;
+    background-color: aqua;
+    color:gray;
+}
+.sidebar{
+    position:fixed;
+    
+}
